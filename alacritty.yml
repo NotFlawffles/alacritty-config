@@ -1,0 +1,23 @@
+import:
+ - ~/.config/alacritty/themes/themes/vscode-light.yaml
+
+font:
+  size: 8
+
+  normal:
+    family: Consolas
+
+  bold:
+    family: Consolas
+
+  italic:
+    family: Consolas
+
+cursor:
+  style:
+    shape: Block
+
+window:
+  padding:
+    x: 25
+    y: 25
